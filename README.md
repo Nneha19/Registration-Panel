@@ -42,7 +42,14 @@ Welcome to the Registration-Panel, the registration page for Oasis, where users 
 
 2.  **Run Development Server:**
    
-        npm i
+        npm run dev
+    
+3.  **Navigate to Local Host:**
+   
+        http://localhost:5173/
 
-
+4. **Build Project**
+   
+        npm run build
+   
 
